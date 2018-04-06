@@ -1,3 +1,0 @@
-api_key = "95228f5260632533d9ca3cd389b25b67"
-geo_api_key="AIzaSyCwX_NFJ7vBE_foz3x6Q5OczGySJLKGJ6M"
-gplace_api_key="AIzaSyA3HFdtgGsWYDXDYA5HIcVGNu6p2PAQOxM"
